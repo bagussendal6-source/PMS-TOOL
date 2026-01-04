@@ -1,0 +1,5 @@
+{
+  "name": "PMS tool",
+  "description": "AI-powered indoor parking map generator. Generates complex, navigable parking layouts for multiple floors with zones and wayfinding paths.",
+  "requestFramePermissions": []
+}
